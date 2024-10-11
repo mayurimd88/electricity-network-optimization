@@ -1,0 +1,501 @@
+Section,Recommended_Action,Equipment_Type,Estimated_Cost,Supplementary_Metadata,Date
+Section E,Upgrade,Insulators,13689,Planned,2023-01-01
+Section D,Refurbishment,Insulators,6273,Emergency,2023-01-02
+Section D,Upgrade,Circuit Breaker,40332,Emergency,2023-01-03
+Section E,Refurbishment,Cables,11021,Planned,2023-01-04
+Section A,Replacement,Transformer,20947,Emergency,2023-01-05
+Section A,Replacement,Transformer,32906,Routine,2023-01-06
+Section C,Replacement,Switchgear,17087,Urgent,2023-01-07
+Section A,Maintenance,Transformer,31247,Emergency,2023-01-08
+Section C,Replacement,Insulators,14493,Planned,2023-01-09
+Section E,Maintenance,Cables,6107,Urgent,2023-01-10
+Section E,Replacement,Insulators,23488,Planned,2023-01-11
+Section A,Upgrade,Transformer,11207,Planned,2023-01-12
+Section C,Refurbishment,Switchgear,8234,Urgent,2023-01-13
+Section E,Upgrade,Insulators,25275,Emergency,2023-01-14
+Section E,Maintenance,Insulators,6575,Routine,2023-01-15
+Section D,Maintenance,Insulators,41461,Urgent,2023-01-16
+Section B,Replacement,Insulators,25925,Routine,2023-01-17
+Section D,Maintenance,Cables,36449,Urgent,2023-01-18
+Section D,Upgrade,Switchgear,32321,Urgent,2023-01-19
+Section E,Replacement,Transformer,47015,Planned,2023-01-20
+Section E,Refurbishment,Switchgear,24014,Emergency,2023-01-21
+Section B,Replacement,Switchgear,12289,Planned,2023-01-22
+Section A,Upgrade,Transformer,6456,Routine,2023-01-23
+Section C,Refurbishment,Insulators,18774,Urgent,2023-01-24
+Section E,Refurbishment,Circuit Breaker,28462,Urgent,2023-01-25
+Section A,Replacement,Switchgear,41107,Urgent,2023-01-26
+Section A,Refurbishment,Switchgear,39867,Urgent,2023-01-27
+Section B,Replacement,Transformer,17569,Planned,2023-01-28
+Section B,Refurbishment,Switchgear,18214,Routine,2023-01-29
+Section D,Refurbishment,Insulators,15731,Planned,2023-01-30
+Section A,Refurbishment,Cables,13368,Urgent,2023-01-31
+Section A,Maintenance,Cables,37528,Planned,2023-02-01
+Section C,Replacement,Insulators,43361,Planned,2023-02-02
+Section B,Replacement,Insulators,6128,Urgent,2023-02-03
+Section D,Replacement,Transformer,6480,Planned,2023-02-04
+Section C,Refurbishment,Circuit Breaker,24776,Planned,2023-02-05
+Section C,Refurbishment,Transformer,18680,Planned,2023-02-06
+Section A,Maintenance,Cables,31682,Emergency,2023-02-07
+Section D,Refurbishment,Switchgear,25455,Planned,2023-02-08
+Section A,Replacement,Cables,45249,Routine,2023-02-09
+Section E,Upgrade,Cables,47694,Planned,2023-02-10
+Section E,Upgrade,Insulators,8590,Planned,2023-02-11
+Section C,Maintenance,Cables,19099,Routine,2023-02-12
+Section E,Upgrade,Circuit Breaker,29524,Emergency,2023-02-13
+Section A,Replacement,Circuit Breaker,14952,Emergency,2023-02-14
+Section B,Refurbishment,Circuit Breaker,12483,Emergency,2023-02-15
+Section E,Maintenance,Circuit Breaker,5042,Planned,2023-02-16
+Section D,Refurbishment,Cables,20524,Routine,2023-02-17
+Section C,Upgrade,Insulators,31824,Routine,2023-02-18
+Section E,Maintenance,Transformer,20527,Urgent,2023-02-19
+Section A,Refurbishment,Cables,15467,Emergency,2023-02-20
+Section C,Upgrade,Insulators,30003,Emergency,2023-02-21
+Section B,Replacement,Transformer,26205,Planned,2023-02-22
+Section D,Upgrade,Transformer,33358,Planned,2023-02-23
+Section A,Upgrade,Switchgear,9539,Emergency,2023-02-24
+Section E,Maintenance,Transformer,39508,Emergency,2023-02-25
+Section D,Replacement,Transformer,12944,Urgent,2023-02-26
+Section A,Refurbishment,Switchgear,18252,Emergency,2023-02-27
+Section C,Upgrade,Circuit Breaker,19329,Planned,2023-02-28
+Section C,Maintenance,Transformer,19851,Planned,2023-03-01
+Section D,Replacement,Switchgear,45373,Emergency,2023-03-02
+Section B,Replacement,Transformer,25605,Emergency,2023-03-03
+Section E,Refurbishment,Cables,12436,Routine,2023-03-04
+Section D,Refurbishment,Insulators,24717,Urgent,2023-03-05
+Section E,Refurbishment,Transformer,48913,Urgent,2023-03-06
+Section E,Upgrade,Switchgear,7083,Urgent,2023-03-07
+Section A,Replacement,Insulators,30441,Urgent,2023-03-08
+Section B,Upgrade,Cables,40333,Emergency,2023-03-09
+Section C,Maintenance,Insulators,22584,Routine,2023-03-10
+Section B,Upgrade,Transformer,25482,Planned,2023-03-11
+Section C,Replacement,Cables,19330,Emergency,2023-03-12
+Section B,Replacement,Cables,47534,Planned,2023-03-13
+Section E,Refurbishment,Transformer,16070,Emergency,2023-03-14
+Section E,Refurbishment,Circuit Breaker,12122,Routine,2023-03-15
+Section B,Maintenance,Cables,13506,Planned,2023-03-16
+Section A,Upgrade,Switchgear,24302,Routine,2023-03-17
+Section B,Replacement,Cables,8083,Emergency,2023-03-18
+Section C,Replacement,Cables,10866,Emergency,2023-03-19
+Section B,Maintenance,Transformer,17845,Planned,2023-03-20
+Section D,Upgrade,Switchgear,30560,Planned,2023-03-21
+Section E,Refurbishment,Cables,10751,Urgent,2023-03-22
+Section A,Replacement,Circuit Breaker,10685,Planned,2023-03-23
+Section C,Replacement,Transformer,17557,Planned,2023-03-24
+Section B,Replacement,Insulators,17381,Routine,2023-03-25
+Section E,Maintenance,Cables,7167,Emergency,2023-03-26
+Section E,Upgrade,Switchgear,13887,Emergency,2023-03-27
+Section C,Replacement,Transformer,39177,Emergency,2023-03-28
+Section D,Maintenance,Transformer,11337,Routine,2023-03-29
+Section A,Replacement,Switchgear,23995,Emergency,2023-03-30
+Section A,Refurbishment,Insulators,24495,Urgent,2023-03-31
+Section C,Upgrade,Transformer,5639,Emergency,2023-04-01
+Section B,Maintenance,Circuit Breaker,29355,Emergency,2023-04-02
+Section D,Replacement,Switchgear,43153,Routine,2023-04-03
+Section E,Maintenance,Transformer,6186,Urgent,2023-04-04
+Section E,Replacement,Circuit Breaker,22763,Planned,2023-04-05
+Section C,Replacement,Switchgear,9044,Emergency,2023-04-06
+Section C,Maintenance,Circuit Breaker,45215,Routine,2023-04-07
+Section E,Refurbishment,Transformer,33443,Routine,2023-04-08
+Section E,Replacement,Switchgear,35077,Routine,2023-04-09
+Section C,Upgrade,Switchgear,32718,Emergency,2023-04-10
+Section D,Refurbishment,Circuit Breaker,9945,Routine,2023-04-11
+Section A,Replacement,Transformer,39451,Routine,2023-04-12
+Section A,Upgrade,Cables,5426,Routine,2023-04-13
+Section A,Maintenance,Switchgear,21131,Routine,2023-04-14
+Section A,Replacement,Transformer,26188,Planned,2023-04-15
+Section D,Maintenance,Insulators,32315,Routine,2023-04-16
+Section B,Upgrade,Cables,46232,Planned,2023-04-17
+Section D,Maintenance,Transformer,45748,Planned,2023-04-18
+Section D,Replacement,Transformer,14938,Routine,2023-04-19
+Section B,Refurbishment,Transformer,29901,Urgent,2023-04-20
+Section A,Maintenance,Cables,41478,Urgent,2023-04-21
+Section E,Maintenance,Switchgear,49532,Routine,2023-04-22
+Section A,Replacement,Transformer,28925,Emergency,2023-04-23
+Section D,Maintenance,Cables,25499,Urgent,2023-04-24
+Section B,Replacement,Switchgear,11089,Planned,2023-04-25
+Section E,Upgrade,Circuit Breaker,49941,Urgent,2023-04-26
+Section A,Upgrade,Switchgear,27305,Urgent,2023-04-27
+Section E,Refurbishment,Switchgear,48750,Planned,2023-04-28
+Section D,Refurbishment,Transformer,19179,Planned,2023-04-29
+Section E,Refurbishment,Insulators,47691,Emergency,2023-04-30
+Section A,Upgrade,Insulators,33196,Urgent,2023-05-01
+Section D,Maintenance,Cables,48099,Emergency,2023-05-02
+Section D,Replacement,Switchgear,26143,Urgent,2023-05-03
+Section A,Replacement,Insulators,10991,Routine,2023-05-04
+Section B,Refurbishment,Circuit Breaker,13788,Emergency,2023-05-05
+Section C,Refurbishment,Switchgear,14096,Planned,2023-05-06
+Section D,Maintenance,Switchgear,9990,Emergency,2023-05-07
+Section B,Replacement,Insulators,15924,Routine,2023-05-08
+Section B,Replacement,Cables,29736,Planned,2023-05-09
+Section D,Upgrade,Insulators,16051,Routine,2023-05-10
+Section E,Replacement,Switchgear,20453,Routine,2023-05-11
+Section B,Maintenance,Transformer,38031,Urgent,2023-05-12
+Section D,Replacement,Circuit Breaker,14425,Urgent,2023-05-13
+Section B,Maintenance,Cables,47927,Emergency,2023-05-14
+Section C,Upgrade,Transformer,13864,Emergency,2023-05-15
+Section D,Refurbishment,Switchgear,39691,Planned,2023-05-16
+Section A,Upgrade,Cables,45499,Routine,2023-05-17
+Section E,Refurbishment,Transformer,22616,Routine,2023-05-18
+Section D,Replacement,Transformer,34797,Urgent,2023-05-19
+Section D,Maintenance,Cables,47202,Emergency,2023-05-20
+Section A,Refurbishment,Transformer,12754,Urgent,2023-05-21
+Section B,Upgrade,Transformer,8707,Planned,2023-05-22
+Section D,Maintenance,Transformer,12081,Emergency,2023-05-23
+Section C,Refurbishment,Transformer,19764,Planned,2023-05-24
+Section D,Upgrade,Insulators,39045,Planned,2023-05-25
+Section D,Refurbishment,Insulators,20859,Urgent,2023-05-26
+Section D,Replacement,Insulators,36751,Routine,2023-05-27
+Section C,Replacement,Circuit Breaker,40339,Urgent,2023-05-28
+Section B,Upgrade,Insulators,44867,Emergency,2023-05-29
+Section B,Replacement,Switchgear,33503,Routine,2023-05-30
+Section C,Replacement,Circuit Breaker,22403,Routine,2023-05-31
+Section C,Replacement,Transformer,37175,Urgent,2023-06-01
+Section D,Replacement,Switchgear,9666,Urgent,2023-06-02
+Section B,Upgrade,Cables,9577,Emergency,2023-06-03
+Section D,Replacement,Cables,48099,Urgent,2023-06-04
+Section B,Upgrade,Cables,42945,Urgent,2023-06-05
+Section C,Maintenance,Circuit Breaker,24026,Urgent,2023-06-06
+Section A,Replacement,Insulators,26244,Emergency,2023-06-07
+Section C,Maintenance,Transformer,40741,Routine,2023-06-08
+Section E,Replacement,Switchgear,28438,Planned,2023-06-09
+Section C,Replacement,Switchgear,10944,Planned,2023-06-10
+Section E,Upgrade,Switchgear,19172,Routine,2023-06-11
+Section D,Upgrade,Cables,34365,Planned,2023-06-12
+Section A,Replacement,Insulators,8117,Urgent,2023-06-13
+Section E,Maintenance,Circuit Breaker,42270,Routine,2023-06-14
+Section B,Replacement,Transformer,29699,Urgent,2023-06-15
+Section A,Refurbishment,Switchgear,44439,Urgent,2023-06-16
+Section D,Upgrade,Insulators,41862,Emergency,2023-06-17
+Section A,Refurbishment,Transformer,41871,Emergency,2023-06-18
+Section B,Maintenance,Switchgear,7508,Planned,2023-06-19
+Section C,Replacement,Insulators,32601,Urgent,2023-06-20
+Section D,Replacement,Switchgear,24108,Routine,2023-06-21
+Section E,Refurbishment,Insulators,19850,Emergency,2023-06-22
+Section A,Replacement,Circuit Breaker,39267,Planned,2023-06-23
+Section D,Replacement,Circuit Breaker,16994,Planned,2023-06-24
+Section D,Upgrade,Switchgear,34517,Urgent,2023-06-25
+Section E,Maintenance,Insulators,12786,Urgent,2023-06-26
+Section B,Refurbishment,Circuit Breaker,13095,Planned,2023-06-27
+Section A,Refurbishment,Transformer,36562,Planned,2023-06-28
+Section A,Refurbishment,Cables,42057,Urgent,2023-06-29
+Section B,Replacement,Cables,25971,Routine,2023-06-30
+Section E,Maintenance,Cables,17037,Emergency,2023-07-01
+Section A,Upgrade,Cables,29933,Planned,2023-07-02
+Section B,Replacement,Cables,24953,Urgent,2023-07-03
+Section B,Replacement,Transformer,35389,Urgent,2023-07-04
+Section D,Upgrade,Switchgear,13263,Routine,2023-07-05
+Section C,Maintenance,Transformer,34175,Planned,2023-07-06
+Section E,Refurbishment,Switchgear,13567,Emergency,2023-07-07
+Section B,Upgrade,Cables,13700,Planned,2023-07-08
+Section B,Refurbishment,Cables,11834,Urgent,2023-07-09
+Section A,Maintenance,Transformer,15891,Routine,2023-07-10
+Section E,Replacement,Insulators,25976,Planned,2023-07-11
+Section B,Upgrade,Insulators,35359,Planned,2023-07-12
+Section E,Upgrade,Circuit Breaker,45156,Urgent,2023-07-13
+Section C,Maintenance,Insulators,42723,Routine,2023-07-14
+Section D,Maintenance,Cables,11013,Planned,2023-07-15
+Section B,Replacement,Insulators,15650,Planned,2023-07-16
+Section A,Upgrade,Transformer,42697,Emergency,2023-07-17
+Section A,Upgrade,Circuit Breaker,30434,Planned,2023-07-18
+Section E,Replacement,Switchgear,10716,Planned,2023-07-19
+Section B,Maintenance,Switchgear,27243,Urgent,2023-07-20
+Section B,Replacement,Transformer,24538,Urgent,2023-07-21
+Section B,Maintenance,Cables,26853,Emergency,2023-07-22
+Section A,Maintenance,Switchgear,27628,Planned,2023-07-23
+Section B,Upgrade,Circuit Breaker,43103,Routine,2023-07-24
+Section B,Maintenance,Insulators,43997,Emergency,2023-07-25
+Section C,Upgrade,Switchgear,40650,Emergency,2023-07-26
+Section A,Refurbishment,Cables,36803,Planned,2023-07-27
+Section C,Replacement,Transformer,19936,Routine,2023-07-28
+Section A,Upgrade,Transformer,17108,Routine,2023-07-29
+Section B,Refurbishment,Switchgear,42354,Routine,2023-07-30
+Section E,Upgrade,Insulators,14423,Planned,2023-07-31
+Section C,Refurbishment,Transformer,49454,Urgent,2023-08-01
+Section D,Upgrade,Insulators,8336,Emergency,2023-08-02
+Section A,Upgrade,Circuit Breaker,36314,Planned,2023-08-03
+Section B,Refurbishment,Insulators,15480,Urgent,2023-08-04
+Section E,Upgrade,Circuit Breaker,28120,Planned,2023-08-05
+Section E,Replacement,Cables,14819,Routine,2023-08-06
+Section E,Maintenance,Switchgear,38861,Emergency,2023-08-07
+Section D,Maintenance,Insulators,25894,Routine,2023-08-08
+Section B,Upgrade,Switchgear,22645,Emergency,2023-08-09
+Section B,Upgrade,Cables,28682,Emergency,2023-08-10
+Section E,Maintenance,Transformer,6430,Urgent,2023-08-11
+Section D,Refurbishment,Transformer,48537,Urgent,2023-08-12
+Section B,Maintenance,Insulators,6053,Urgent,2023-08-13
+Section B,Replacement,Insulators,44850,Emergency,2023-08-14
+Section D,Upgrade,Circuit Breaker,38326,Routine,2023-08-15
+Section A,Upgrade,Transformer,8121,Urgent,2023-08-16
+Section C,Replacement,Switchgear,10294,Urgent,2023-08-17
+Section D,Replacement,Circuit Breaker,33490,Routine,2023-08-18
+Section A,Upgrade,Transformer,30596,Emergency,2023-08-19
+Section B,Upgrade,Switchgear,34765,Urgent,2023-08-20
+Section E,Maintenance,Switchgear,37390,Emergency,2023-08-21
+Section A,Refurbishment,Switchgear,38413,Planned,2023-08-22
+Section B,Maintenance,Transformer,20086,Routine,2023-08-23
+Section C,Maintenance,Insulators,44256,Planned,2023-08-24
+Section B,Replacement,Cables,15569,Emergency,2023-08-25
+Section D,Refurbishment,Transformer,9218,Urgent,2023-08-26
+Section B,Upgrade,Transformer,17300,Emergency,2023-08-27
+Section E,Replacement,Cables,10482,Emergency,2023-08-28
+Section D,Refurbishment,Cables,33102,Emergency,2023-08-29
+Section A,Maintenance,Cables,49389,Urgent,2023-08-30
+Section A,Refurbishment,Insulators,17153,Routine,2023-08-31
+Section E,Replacement,Cables,23885,Planned,2023-09-01
+Section B,Upgrade,Switchgear,10699,Emergency,2023-09-02
+Section D,Maintenance,Cables,21812,Emergency,2023-09-03
+Section A,Upgrade,Cables,31092,Emergency,2023-09-04
+Section A,Upgrade,Cables,37497,Routine,2023-09-05
+Section E,Maintenance,Circuit Breaker,18130,Urgent,2023-09-06
+Section B,Maintenance,Transformer,21698,Urgent,2023-09-07
+Section B,Replacement,Circuit Breaker,31169,Urgent,2023-09-08
+Section B,Upgrade,Cables,39087,Routine,2023-09-09
+Section A,Refurbishment,Switchgear,46679,Planned,2023-09-10
+Section B,Maintenance,Transformer,49427,Urgent,2023-09-11
+Section B,Maintenance,Cables,28351,Emergency,2023-09-12
+Section E,Replacement,Cables,29290,Emergency,2023-09-13
+Section C,Upgrade,Cables,23938,Routine,2023-09-14
+Section B,Replacement,Insulators,12204,Urgent,2023-09-15
+Section B,Upgrade,Cables,15170,Urgent,2023-09-16
+Section C,Maintenance,Switchgear,7284,Planned,2023-09-17
+Section C,Replacement,Insulators,26559,Planned,2023-09-18
+Section C,Replacement,Cables,20972,Planned,2023-09-19
+Section E,Maintenance,Switchgear,13504,Planned,2023-09-20
+Section C,Maintenance,Circuit Breaker,10934,Routine,2023-09-21
+Section B,Refurbishment,Cables,13322,Routine,2023-09-22
+Section D,Refurbishment,Cables,7747,Emergency,2023-09-23
+Section D,Maintenance,Circuit Breaker,47255,Planned,2023-09-24
+Section E,Maintenance,Switchgear,11176,Urgent,2023-09-25
+Section A,Replacement,Circuit Breaker,8890,Routine,2023-09-26
+Section E,Upgrade,Insulators,18788,Planned,2023-09-27
+Section C,Refurbishment,Transformer,46954,Routine,2023-09-28
+Section D,Replacement,Insulators,40762,Planned,2023-09-29
+Section C,Refurbishment,Transformer,21975,Emergency,2023-09-30
+Section E,Maintenance,Transformer,46498,Emergency,2023-10-01
+Section A,Refurbishment,Switchgear,28634,Routine,2023-10-02
+Section A,Replacement,Cables,6351,Planned,2023-10-03
+Section B,Refurbishment,Insulators,13198,Urgent,2023-10-04
+Section E,Replacement,Circuit Breaker,40069,Urgent,2023-10-05
+Section C,Maintenance,Circuit Breaker,16065,Urgent,2023-10-06
+Section B,Replacement,Transformer,44430,Routine,2023-10-07
+Section A,Replacement,Switchgear,24497,Urgent,2023-10-08
+Section A,Refurbishment,Transformer,10896,Planned,2023-10-09
+Section C,Replacement,Switchgear,12621,Urgent,2023-10-10
+Section D,Upgrade,Insulators,38452,Emergency,2023-10-11
+Section B,Replacement,Switchgear,36581,Urgent,2023-10-12
+Section B,Replacement,Cables,43177,Routine,2023-10-13
+Section E,Maintenance,Transformer,5433,Planned,2023-10-14
+Section B,Maintenance,Insulators,40439,Emergency,2023-10-15
+Section D,Upgrade,Cables,32196,Planned,2023-10-16
+Section E,Refurbishment,Transformer,16184,Planned,2023-10-17
+Section B,Maintenance,Switchgear,31385,Emergency,2023-10-18
+Section E,Replacement,Insulators,37621,Planned,2023-10-19
+Section D,Replacement,Switchgear,29526,Routine,2023-10-20
+Section E,Maintenance,Insulators,47469,Emergency,2023-10-21
+Section D,Replacement,Transformer,6903,Planned,2023-10-22
+Section C,Upgrade,Circuit Breaker,12367,Urgent,2023-10-23
+Section A,Refurbishment,Switchgear,10291,Routine,2023-10-24
+Section C,Replacement,Insulators,26809,Routine,2023-10-25
+Section C,Upgrade,Transformer,40231,Planned,2023-10-26
+Section B,Maintenance,Circuit Breaker,13589,Urgent,2023-10-27
+Section D,Refurbishment,Circuit Breaker,9496,Routine,2023-10-28
+Section D,Maintenance,Cables,38099,Urgent,2023-10-29
+Section D,Maintenance,Transformer,23894,Urgent,2023-10-30
+Section C,Refurbishment,Transformer,27367,Emergency,2023-10-31
+Section E,Refurbishment,Insulators,38502,Planned,2023-11-01
+Section C,Refurbishment,Cables,34966,Emergency,2023-11-02
+Section D,Maintenance,Circuit Breaker,23628,Routine,2023-11-03
+Section D,Maintenance,Insulators,39804,Routine,2023-11-04
+Section C,Upgrade,Switchgear,43255,Urgent,2023-11-05
+Section B,Replacement,Transformer,23694,Urgent,2023-11-06
+Section D,Replacement,Cables,8254,Emergency,2023-11-07
+Section D,Refurbishment,Transformer,11321,Urgent,2023-11-08
+Section B,Maintenance,Circuit Breaker,12058,Emergency,2023-11-09
+Section A,Maintenance,Transformer,7232,Planned,2023-11-10
+Section D,Maintenance,Transformer,42420,Emergency,2023-11-11
+Section D,Upgrade,Transformer,49530,Planned,2023-11-12
+Section B,Replacement,Insulators,13330,Routine,2023-11-13
+Section A,Refurbishment,Cables,44793,Planned,2023-11-14
+Section E,Maintenance,Switchgear,36918,Urgent,2023-11-15
+Section A,Replacement,Transformer,37537,Emergency,2023-11-16
+Section A,Refurbishment,Circuit Breaker,8315,Planned,2023-11-17
+Section C,Refurbishment,Insulators,20424,Emergency,2023-11-18
+Section C,Refurbishment,Cables,26531,Urgent,2023-11-19
+Section B,Refurbishment,Transformer,10954,Routine,2023-11-20
+Section D,Maintenance,Insulators,7124,Routine,2023-11-21
+Section C,Refurbishment,Transformer,18428,Planned,2023-11-22
+Section A,Refurbishment,Circuit Breaker,30601,Urgent,2023-11-23
+Section B,Refurbishment,Insulators,37876,Urgent,2023-11-24
+Section B,Maintenance,Insulators,19050,Urgent,2023-11-25
+Section B,Upgrade,Transformer,14069,Planned,2023-11-26
+Section A,Upgrade,Switchgear,29208,Planned,2023-11-27
+Section A,Upgrade,Transformer,19772,Planned,2023-11-28
+Section E,Refurbishment,Insulators,29695,Planned,2023-11-29
+Section A,Maintenance,Switchgear,20630,Planned,2023-11-30
+Section E,Maintenance,Cables,23693,Emergency,2023-12-01
+Section B,Upgrade,Switchgear,47457,Urgent,2023-12-02
+Section D,Refurbishment,Cables,28305,Emergency,2023-12-03
+Section C,Replacement,Switchgear,23279,Emergency,2023-12-04
+Section D,Maintenance,Switchgear,48018,Routine,2023-12-05
+Section E,Maintenance,Circuit Breaker,36575,Urgent,2023-12-06
+Section A,Refurbishment,Transformer,39980,Planned,2023-12-07
+Section B,Maintenance,Insulators,34368,Emergency,2023-12-08
+Section D,Replacement,Circuit Breaker,37467,Urgent,2023-12-09
+Section D,Refurbishment,Cables,8881,Urgent,2023-12-10
+Section B,Maintenance,Insulators,12280,Routine,2023-12-11
+Section C,Refurbishment,Insulators,24822,Planned,2023-12-12
+Section B,Replacement,Switchgear,30785,Emergency,2023-12-13
+Section B,Replacement,Transformer,10205,Routine,2023-12-14
+Section E,Maintenance,Transformer,24584,Emergency,2023-12-15
+Section B,Refurbishment,Transformer,39806,Planned,2023-12-16
+Section C,Replacement,Switchgear,35139,Emergency,2023-12-17
+Section E,Replacement,Switchgear,35944,Emergency,2023-12-18
+Section B,Maintenance,Switchgear,6503,Urgent,2023-12-19
+Section A,Maintenance,Transformer,23516,Urgent,2023-12-20
+Section C,Replacement,Transformer,44956,Emergency,2023-12-21
+Section C,Refurbishment,Transformer,13639,Urgent,2023-12-22
+Section B,Maintenance,Circuit Breaker,38035,Urgent,2023-12-23
+Section B,Upgrade,Switchgear,7816,Emergency,2023-12-24
+Section E,Refurbishment,Insulators,7441,Emergency,2023-12-25
+Section E,Refurbishment,Insulators,13146,Routine,2023-12-26
+Section D,Replacement,Transformer,19873,Planned,2023-12-27
+Section A,Maintenance,Transformer,8348,Urgent,2023-12-28
+Section B,Refurbishment,Transformer,13360,Urgent,2023-12-29
+Section C,Maintenance,Cables,10146,Urgent,2023-12-30
+Section B,Refurbishment,Transformer,49606,Routine,2023-12-31
+Section C,Upgrade,Switchgear,21793,Urgent,2024-01-01
+Section C,Refurbishment,Circuit Breaker,47796,Emergency,2024-01-02
+Section A,Replacement,Insulators,25929,Emergency,2024-01-03
+Section B,Upgrade,Circuit Breaker,23918,Emergency,2024-01-04
+Section E,Replacement,Circuit Breaker,29065,Routine,2024-01-05
+Section E,Replacement,Transformer,15959,Planned,2024-01-06
+Section B,Refurbishment,Circuit Breaker,32702,Urgent,2024-01-07
+Section A,Upgrade,Circuit Breaker,46350,Planned,2024-01-08
+Section B,Upgrade,Circuit Breaker,41221,Routine,2024-01-09
+Section E,Upgrade,Switchgear,47893,Planned,2024-01-10
+Section B,Maintenance,Insulators,39903,Urgent,2024-01-11
+Section E,Maintenance,Insulators,7284,Routine,2024-01-12
+Section D,Replacement,Insulators,36813,Routine,2024-01-13
+Section B,Replacement,Transformer,40024,Routine,2024-01-14
+Section C,Replacement,Cables,44303,Emergency,2024-01-15
+Section A,Maintenance,Insulators,33057,Emergency,2024-01-16
+Section B,Refurbishment,Switchgear,26209,Planned,2024-01-17
+Section C,Maintenance,Cables,33686,Planned,2024-01-18
+Section D,Refurbishment,Circuit Breaker,41289,Emergency,2024-01-19
+Section D,Replacement,Switchgear,18119,Urgent,2024-01-20
+Section B,Refurbishment,Switchgear,12010,Routine,2024-01-21
+Section E,Refurbishment,Cables,9040,Urgent,2024-01-22
+Section A,Replacement,Cables,10189,Urgent,2024-01-23
+Section A,Upgrade,Switchgear,47236,Emergency,2024-01-24
+Section A,Refurbishment,Transformer,20717,Routine,2024-01-25
+Section D,Maintenance,Cables,16106,Planned,2024-01-26
+Section A,Upgrade,Cables,13986,Planned,2024-01-27
+Section D,Replacement,Transformer,41868,Urgent,2024-01-28
+Section B,Maintenance,Insulators,44825,Emergency,2024-01-29
+Section D,Maintenance,Circuit Breaker,26810,Urgent,2024-01-30
+Section A,Replacement,Circuit Breaker,30136,Urgent,2024-01-31
+Section D,Upgrade,Transformer,43511,Emergency,2024-02-01
+Section A,Maintenance,Circuit Breaker,44685,Urgent,2024-02-02
+Section A,Replacement,Transformer,45530,Urgent,2024-02-03
+Section E,Refurbishment,Transformer,18847,Routine,2024-02-04
+Section E,Replacement,Circuit Breaker,42758,Emergency,2024-02-05
+Section A,Replacement,Circuit Breaker,36587,Routine,2024-02-06
+Section A,Maintenance,Transformer,34405,Emergency,2024-02-07
+Section D,Maintenance,Circuit Breaker,38932,Planned,2024-02-08
+Section B,Upgrade,Switchgear,16362,Planned,2024-02-09
+Section E,Refurbishment,Circuit Breaker,30099,Emergency,2024-02-10
+Section B,Upgrade,Transformer,10050,Emergency,2024-02-11
+Section C,Maintenance,Circuit Breaker,35387,Routine,2024-02-12
+Section A,Replacement,Circuit Breaker,40805,Planned,2024-02-13
+Section C,Replacement,Circuit Breaker,43793,Planned,2024-02-14
+Section C,Maintenance,Switchgear,6655,Routine,2024-02-15
+Section B,Upgrade,Insulators,19442,Planned,2024-02-16
+Section A,Upgrade,Circuit Breaker,22614,Planned,2024-02-17
+Section D,Maintenance,Transformer,24323,Emergency,2024-02-18
+Section D,Upgrade,Cables,5040,Routine,2024-02-19
+Section D,Refurbishment,Switchgear,22732,Urgent,2024-02-20
+Section C,Maintenance,Cables,5006,Emergency,2024-02-21
+Section B,Upgrade,Cables,36071,Planned,2024-02-22
+Section A,Maintenance,Insulators,26269,Planned,2024-02-23
+Section B,Maintenance,Insulators,34981,Planned,2024-02-24
+Section A,Refurbishment,Cables,42034,Emergency,2024-02-25
+Section E,Upgrade,Cables,21986,Routine,2024-02-26
+Section D,Replacement,Transformer,10667,Urgent,2024-02-27
+Section C,Replacement,Circuit Breaker,20972,Planned,2024-02-28
+Section A,Replacement,Circuit Breaker,5033,Planned,2024-02-29
+Section E,Replacement,Circuit Breaker,22700,Planned,2024-03-01
+Section E,Upgrade,Insulators,28405,Planned,2024-03-02
+Section C,Refurbishment,Switchgear,30144,Planned,2024-03-03
+Section B,Upgrade,Switchgear,48973,Routine,2024-03-04
+Section C,Maintenance,Cables,7064,Urgent,2024-03-05
+Section A,Maintenance,Transformer,21296,Planned,2024-03-06
+Section E,Upgrade,Transformer,14106,Planned,2024-03-07
+Section C,Upgrade,Insulators,42988,Emergency,2024-03-08
+Section B,Maintenance,Transformer,16036,Planned,2024-03-09
+Section C,Upgrade,Switchgear,31363,Planned,2024-03-10
+Section E,Replacement,Cables,37155,Emergency,2024-03-11
+Section A,Replacement,Circuit Breaker,15841,Emergency,2024-03-12
+Section D,Upgrade,Transformer,43526,Urgent,2024-03-13
+Section A,Replacement,Cables,12422,Urgent,2024-03-14
+Section D,Replacement,Transformer,27195,Planned,2024-03-15
+Section E,Upgrade,Circuit Breaker,6472,Routine,2024-03-16
+Section A,Replacement,Insulators,16975,Urgent,2024-03-17
+Section B,Replacement,Transformer,8450,Routine,2024-03-18
+Section E,Maintenance,Transformer,47540,Routine,2024-03-19
+Section B,Replacement,Cables,20844,Emergency,2024-03-20
+Section C,Refurbishment,Circuit Breaker,37694,Urgent,2024-03-21
+Section D,Refurbishment,Transformer,39597,Urgent,2024-03-22
+Section B,Replacement,Insulators,31434,Emergency,2024-03-23
+Section A,Replacement,Switchgear,14548,Planned,2024-03-24
+Section C,Replacement,Switchgear,7147,Urgent,2024-03-25
+Section A,Replacement,Circuit Breaker,26395,Emergency,2024-03-26
+Section A,Replacement,Cables,14356,Routine,2024-03-27
+Section B,Replacement,Switchgear,43564,Urgent,2024-03-28
+Section D,Refurbishment,Switchgear,27305,Routine,2024-03-29
+Section A,Upgrade,Circuit Breaker,18788,Planned,2024-03-30
+Section A,Upgrade,Switchgear,8931,Urgent,2024-03-31
+Section E,Replacement,Cables,20332,Routine,2024-04-01
+Section B,Replacement,Circuit Breaker,6092,Planned,2024-04-02
+Section C,Maintenance,Circuit Breaker,36678,Urgent,2024-04-03
+Section B,Refurbishment,Switchgear,5797,Routine,2024-04-04
+Section E,Maintenance,Cables,23224,Emergency,2024-04-05
+Section C,Upgrade,Circuit Breaker,32054,Urgent,2024-04-06
+Section A,Upgrade,Transformer,26459,Routine,2024-04-07
+Section A,Upgrade,Switchgear,30095,Emergency,2024-04-08
+Section E,Refurbishment,Circuit Breaker,35941,Emergency,2024-04-09
+Section B,Upgrade,Insulators,18389,Urgent,2024-04-10
+Section C,Replacement,Insulators,27591,Emergency,2024-04-11
+Section C,Maintenance,Cables,5113,Routine,2024-04-12
+Section C,Maintenance,Insulators,44125,Planned,2024-04-13
+Section C,Maintenance,Cables,34284,Emergency,2024-04-14
+Section A,Upgrade,Transformer,12899,Planned,2024-04-15
+Section A,Refurbishment,Switchgear,8233,Urgent,2024-04-16
+Section B,Refurbishment,Insulators,27999,Routine,2024-04-17
+Section A,Replacement,Cables,9154,Planned,2024-04-18
+Section B,Maintenance,Insulators,15411,Emergency,2024-04-19
+Section B,Maintenance,Circuit Breaker,23462,Planned,2024-04-20
+Section B,Upgrade,Cables,44603,Urgent,2024-04-21
+Section E,Refurbishment,Switchgear,29567,Planned,2024-04-22
+Section C,Replacement,Transformer,12412,Planned,2024-04-23
+Section B,Upgrade,Insulators,17194,Routine,2024-04-24
+Section A,Upgrade,Cables,49202,Routine,2024-04-25
+Section A,Maintenance,Circuit Breaker,37581,Planned,2024-04-26
+Section D,Maintenance,Circuit Breaker,45579,Urgent,2024-04-27
+Section E,Upgrade,Switchgear,32967,Urgent,2024-04-28
+Section A,Replacement,Switchgear,33479,Emergency,2024-04-29
+Section B,Replacement,Insulators,28489,Emergency,2024-04-30
+Section A,Replacement,Switchgear,40395,Planned,2024-05-01
+Section A,Replacement,Circuit Breaker,49560,Emergency,2024-05-02
+Section E,Maintenance,Cables,29013,Emergency,2024-05-03
+Section D,Replacement,Switchgear,31145,Routine,2024-05-04
+Section D,Refurbishment,Switchgear,31775,Routine,2024-05-05
+Section C,Refurbishment,Circuit Breaker,19399,Routine,2024-05-06
+Section E,Upgrade,Transformer,11661,Routine,2024-05-07
+Section D,Refurbishment,Circuit Breaker,37634,Urgent,2024-05-08
+Section C,Refurbishment,Circuit Breaker,26474,Urgent,2024-05-09
+Section D,Refurbishment,Transformer,28358,Emergency,2024-05-10
+Section D,Refurbishment,Switchgear,34597,Urgent,2024-05-11
+Section B,Maintenance,Circuit Breaker,16749,Planned,2024-05-12
+Section A,Replacement,Transformer,33467,Planned,2024-05-13
+Section A,Upgrade,Cables,38593,Emergency,2024-05-14
